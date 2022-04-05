@@ -1,0 +1,7 @@
+{
+  "name": "pagos-tec",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
